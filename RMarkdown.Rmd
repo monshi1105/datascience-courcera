@@ -1,0 +1,6 @@
+---
+title: "My first R Markdown"
+author: "Me!!"
+date: "2022-07-26"
+output: pdf_document
+---
